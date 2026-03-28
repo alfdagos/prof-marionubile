@@ -87,7 +87,7 @@ const Index = () => {
                   </Button>
                 </Link>
                 <Link to="/ricerca">
-                  <Button size="lg" variant="outline" className="border-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/10 gap-2 text-base">
+                  <Button size="lg" variant="outline" className="border-cyan/40 text-cyan-glow hover:bg-cyan/10 gap-2 text-base">
                     <BookOpen className="w-4 h-4" />
                     Le Pubblicazioni
                   </Button>
